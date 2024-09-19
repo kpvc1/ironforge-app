@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ironforge-app/static/css/main.a72ed0c0.css",
+    "main.js": "/ironforge-app/static/js/main.c0059530.js",
+    "static/js/453.3cc4eb9c.chunk.js": "/ironforge-app/static/js/453.3cc4eb9c.chunk.js",
+    "index.html": "/ironforge-app/index.html",
+    "main.a72ed0c0.css.map": "/ironforge-app/static/css/main.a72ed0c0.css.map",
+    "main.c0059530.js.map": "/ironforge-app/static/js/main.c0059530.js.map",
+    "453.3cc4eb9c.chunk.js.map": "/ironforge-app/static/js/453.3cc4eb9c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a72ed0c0.css",
+    "static/js/main.c0059530.js"
+  ]
+}
